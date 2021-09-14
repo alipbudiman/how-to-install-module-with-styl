@@ -15,7 +15,7 @@ CREDIT ________________________________
 ⌬   You can DM me for any ask something or give a littlebit donations
 ⌬   Copyright 2021 by Alip  FXG TEAMS
 
-# Free to use, all credits belong to me, Anysz.
+# Free to use, all credits belong to me.
 # Feel free to report bugs :)
 
 """
